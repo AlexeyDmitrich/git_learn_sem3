@@ -8,3 +8,4 @@
 
     git config --global user.email "адрес почты"
 
+ещё одна строка
