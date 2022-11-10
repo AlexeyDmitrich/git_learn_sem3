@@ -25,3 +25,28 @@
 чтобы зафиксировать изменения, добавленные в индекс, нужно ввести команду 
 
     git commit
+
+лишняя строка
+
+todo:
+
+git commit -m
+
+git commit -a
+
+git commit -am
+
+git log
+
+git log --oneline
+
+git log --all
+
+git diff
+
+git diff \<hash1> \<hash2>
+
+git checkout
+
+git status
+
