@@ -94,3 +94,12 @@ _где в качестве hash указать первые шесть симв
 
     git status
 
+
+## to be conitinue...
+
+* _git branch_
+* _git branch \<newBranchName>_
+* _git checkout \<branchName>_
+* _git merge \<branchName>_
+* _git add .gitignore_
+* _git log --graph_
